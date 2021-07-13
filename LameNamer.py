@@ -6,7 +6,7 @@ from random_word import RandomWords
 today = date.today()
 r = RandomWords()
 
-# Generate the name
+# Generate the name, in the format DAY_ADJECTIVE_NOUN
 name = today.strftime("%d") + '_' + r.get_random_word(excludePartOfSpeech = "noun") + '_' + r.get_random_word(excludePartOfSpeech = "adjective, verb")
 
 # Print it

@@ -4,4 +4,4 @@ I'm by no means a professional programmer, as I wrote this to make naming my Abl
 
 # Usage
 To run Lame Namer 9000, you'll need Vaibhav Singh's Random-Word module, which can be installed with `pip`.
-Simply run `python3 LameNamer.py` and it will generate an underscored name with a day number tacked on the front.
+Simply run `LameNamer.py` in Python 3 or later and it will generate an underscored name with a day number tacked on the front.

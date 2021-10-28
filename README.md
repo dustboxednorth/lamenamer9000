@@ -4,4 +4,4 @@ I'm by no means a professional programmer, as I wrote this to make naming my mus
 
 # Usage
 To run Lame Namer 9000, you'll need Vaibhav Singh's Random-Word module, which can be installed with `pip`.
-Simply run `LameNamer.py` in Python 3 or later and it will generate a name with a day number appended to it (for organization purposes).
+Simply run `LameNamer.py` in Python 3 or later and it will generate a name with a day number prepended to it (for organization purposes).
